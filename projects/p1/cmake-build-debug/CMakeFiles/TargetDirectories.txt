@@ -1,0 +1,3 @@
+/home/xuzhekai/ve280/projects/p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xuzhekai/ve280/projects/p1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xuzhekai/ve280/projects/p1/cmake-build-debug/CMakeFiles/p1.dir
